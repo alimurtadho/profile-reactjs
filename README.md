@@ -1,5 +1,5 @@
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](original.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](original.png?raw=true "ReactJS Resume Website Template")
 
 
 ## Description
